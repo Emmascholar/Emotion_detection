@@ -4,4 +4,4 @@
 * Surprise
 * Anger
 * Fear
-### I used Word2vec in creating my word embeddings.
+### Word2vec was use in creating my word embeddings.
